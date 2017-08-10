@@ -1,0 +1,2 @@
+INSERT INTO Person (id, firstName, lastName, birthDate, street, number, city, postalCode) VALUES (1, 'John', 'Doe', '1998-05-05', 'acaciastraat', '48', 'Lummen', '3560');
+INSERT INTO Person (id, firstName, lastName, birthDate, street, number, city, postalCode) VALUES (2, 'Jane', 'Doe', '1998-04-04', 'acaciastraat', '48', 'Lummen', '3560');
